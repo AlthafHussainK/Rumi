@@ -17,8 +17,8 @@ python3
 ## Installtion
 
 ```
-$ git clone https://github.com/mubaris/motivate.git
-$ cd motivate
+$ git clone https://github.com/AlthafHussainK/Rumi.git
+$ cd Rumi
 $ ./install.sh
 $ source ~/.bashrc
 ```
@@ -28,8 +28,8 @@ zsh users should replace `.bashrc` with `.zshrc`.
 ## Update Database
 
 ```
-$ git clone https://github.com/mubaris/motivate.git
-$ cd motivate
+$ git clone https://github.com/AlthafHussainK/Rumi.git
+$ cd Rumi
 $ ./UPDATE
 ```
 
