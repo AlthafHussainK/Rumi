@@ -1,10 +1,17 @@
 {
     "data": [
-        
+
         {
             "quote": "The mind that tries to shape tomorrow beyond its capacities will find no rest.",
             "author": "Rumi"
+        },
+        {
+            "quote": "My friend, you thought you lost Him;
+            that all your life you've been separated from Him.
+            Filled with wonder, you've always looked outside for Him,
+            and haven't searched within your own house.",
+            "author": "Rumi"
         }
-        
+
     ]
 }
